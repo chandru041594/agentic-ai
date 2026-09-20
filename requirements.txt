@@ -1,0 +1,10 @@
+langchain
+langgraph
+faiss-cpu
+sentence-transformers
+transformers
+streamlit
+fastapi
+uvicorn
+langchain-community
+
